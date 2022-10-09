@@ -137,6 +137,7 @@ main section {
     min-width: 120px;
     text-decoration: none;
     padding: 10px;
+    color: black;
   }
   nav a:link, nav a:visited {
     color: var(--nav-link-color);
@@ -145,6 +146,8 @@ main section {
     color: var(--nav-hover-link-color);
     background-color: var(--nav-hover-background-color);
     background-color: #011638;
+    color: white;
+    text-decoration: none;
   }
   .sitemap {
     display: grid;
@@ -192,10 +195,13 @@ main section {
 
   .book, .join {
     background-color: #779fa1;
+    color: black;
+    text-decoration: none;
   }
 
   .book:hover, .join:hover {
     background-color: #396E94
+    color:#011638;
   }
 
   .msg {
@@ -204,4 +210,38 @@ main section {
 
   footer {
     background-color: #c4a484;
+    color: black;
   }
+
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  footer a:hover{
+    color: white;
+  }
+
+  footer p {
+    font-size: 1.2em;
+  }
+
+  footer p a:hover {
+    text-decoration: underline;
+  }
+
+  .home-title {
+    color: white;
+  }
+
+  h4 {
+    color: black;
+  }
+
+.logo {
+  width: 80px;
+}
+
+#hero-img {
+  width: 100%;
+}
+
