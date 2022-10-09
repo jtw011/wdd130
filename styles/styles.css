@@ -1,17 +1,48 @@
 .para {
     font-size: 1.5em;
     line-height: 1.5em;
+    padding: 10px;
+    margin: 20px auto;
 }
 
 a {
     background-color: steelblue;
-    font-size: 1.5em;
+    font-size: 2em;
     color: white;
-    padding: 10px;
+    padding: 20px;
     text-decoration: none;
+    margin:40px;
 }
 
-#active {
+#active, a:hover {
     background-color: white;
     color:steelblue;
+}
+
+body{
+    text-align:center;
+}
+
+h1{ 
+    color:steelblue;
+    margin: 60px;
+}
+
+img{
+    width: 80%;
+    border: 4px solid steelblue;
+}
+
+footer p {
+    font-size: 1em;
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    background-color:steelblue;
+}
+
+nav, footer p {
+    background-color: steelblue;
 }
