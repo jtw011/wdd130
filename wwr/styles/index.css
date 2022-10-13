@@ -1,5 +1,6 @@
 body {
     background-color:#779fa1;
+    margin: 0;
 }
 
 #content {
@@ -86,4 +87,3 @@ nav a {
 #hero-img {
   width: 100%;
 }
-
