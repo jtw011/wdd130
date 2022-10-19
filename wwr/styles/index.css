@@ -12,6 +12,7 @@ body {
 #content {
     max-width: 1600px;
     margin: 0 auto;
+}
 
     nav a {
         text-align: center;
@@ -140,3 +141,6 @@ h2 {
     border: 10px solid black;
 }
 
+a {
+  text-decoration: none;
+}
