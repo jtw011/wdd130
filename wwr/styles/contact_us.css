@@ -251,3 +251,8 @@ a {
   /* make this element invisible until we are ready for it */
   display: none;      
 }
+
+.moveDown {
+    margin-top: 3em;
+}
+                    
