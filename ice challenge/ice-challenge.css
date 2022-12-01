@@ -1,0 +1,40 @@
+body {
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
+header :hover {
+    color: white;
+}
+
+main {
+    color: black;
+}
+
+ol {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+img {
+    width: 30%;
+}
+
+main, h2 {
+    color: white;
+}
+
+footer {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50%;
+}
+
+header, main, footer {
+    width: 30%;
+    margin: 0 auto;
+}
