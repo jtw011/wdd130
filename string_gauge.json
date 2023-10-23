@@ -1,0 +1,204 @@
+[
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "aluminum-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "aluminum-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "aluminum-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "aluminum-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "phosphor-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "phosphor-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "phosphor-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "phosphor-bronze"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "brass"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "brass"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "brass"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "brass"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "polymer-coated"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "polymer-coated"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "polymer-coated"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "polymer-coated"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "10",
+        "heaviness": "extra light",
+        "material": "silk and steel"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "11",
+        "heaviness": "light",
+        "material": "silk and steel"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "12",
+        "heaviness": "medium",
+        "material": "silk and steel"
+    },
+    {
+        "guitar_type": "acoustic",
+        "gauge": "13",
+        "heaviness": "heavy",
+        "material": "silk and steel"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "lower",
+        "heaviness": "light tension",
+        "material": "clear nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "lower",
+        "heaviness": "light tension",
+        "material": "rectified nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "lower",
+        "heaviness": "light tension",
+        "material": "black nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "lower",
+        "heaviness": "light tension",
+        "material": "titanium"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "lower",
+        "heaviness": "light tension",
+        "material": "composite"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "normal",
+        "heaviness": "regular tension",
+        "material": "clear nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "normal",
+        "heaviness": "regular tension",
+        "material": "rectified nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "normal",
+        "heaviness": "regular tension",
+        "material": "black nylon"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "normal",
+        "heaviness": "regular tension",
+        "material": "titanium"
+    },
+    {
+        "guitar_type": "classical",
+        "gauge": "normal",
+    }
+]
